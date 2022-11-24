@@ -1,0 +1,8 @@
+- Test C2 as newtab addon
+-  
+- Newtab addon have an switch in settings for NativeMessaging, between MetaMask and Frame
+- Firefloflis/Fhrome watches the folder of every addon/extension and commits new updates, and link them with their XPI/CRX compression/packaging using OmniLink (registered on UniStore with CommonChain and Web3Updater)
+
+- OmniLink/CommonChain/UniStore also registers applets and desklets and their versions/updates
+
+- Py as bridge between bash and brwser
